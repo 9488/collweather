@@ -1,6 +1,6 @@
 <litepal>
     <dbname value = "coll_weater"/>
-    <version value = "1"/>
+    <version value = "2"/>
     <list>
         <mapping class = "com.hjl.coolweather.db.Province"/>
         <mapping class="com.hjl.coolweather.db.City"/>
